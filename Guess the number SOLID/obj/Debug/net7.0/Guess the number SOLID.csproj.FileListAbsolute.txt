@@ -1,0 +1,15 @@
+C:\Users\Константин\Documents\Guess the number\Guess the number SOLID\Guess the number SOLID\bin\Debug\net7.0\Guess the number SOLID.exe
+C:\Users\Константин\Documents\Guess the number\Guess the number SOLID\Guess the number SOLID\bin\Debug\net7.0\Guess the number SOLID.deps.json
+C:\Users\Константин\Documents\Guess the number\Guess the number SOLID\Guess the number SOLID\bin\Debug\net7.0\Guess the number SOLID.runtimeconfig.json
+C:\Users\Константин\Documents\Guess the number\Guess the number SOLID\Guess the number SOLID\bin\Debug\net7.0\Guess the number SOLID.dll
+C:\Users\Константин\Documents\Guess the number\Guess the number SOLID\Guess the number SOLID\bin\Debug\net7.0\Guess the number SOLID.pdb
+C:\Users\Константин\Documents\Guess the number\Guess the number SOLID\Guess the number SOLID\obj\Debug\net7.0\Guess the number SOLID.csproj.AssemblyReference.cache
+C:\Users\Константин\Documents\Guess the number\Guess the number SOLID\Guess the number SOLID\obj\Debug\net7.0\Guess the number SOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Константин\Documents\Guess the number\Guess the number SOLID\Guess the number SOLID\obj\Debug\net7.0\Guess the number SOLID.AssemblyInfoInputs.cache
+C:\Users\Константин\Documents\Guess the number\Guess the number SOLID\Guess the number SOLID\obj\Debug\net7.0\Guess the number SOLID.AssemblyInfo.cs
+C:\Users\Константин\Documents\Guess the number\Guess the number SOLID\Guess the number SOLID\obj\Debug\net7.0\Guess the number SOLID.csproj.CoreCompileInputs.cache
+C:\Users\Константин\Documents\Guess the number\Guess the number SOLID\Guess the number SOLID\obj\Debug\net7.0\Guess the number SOLID.dll
+C:\Users\Константин\Documents\Guess the number\Guess the number SOLID\Guess the number SOLID\obj\Debug\net7.0\refint\Guess the number SOLID.dll
+C:\Users\Константин\Documents\Guess the number\Guess the number SOLID\Guess the number SOLID\obj\Debug\net7.0\Guess the number SOLID.pdb
+C:\Users\Константин\Documents\Guess the number\Guess the number SOLID\Guess the number SOLID\obj\Debug\net7.0\Guess the number SOLID.genruntimeconfig.cache
+C:\Users\Константин\Documents\Guess the number\Guess the number SOLID\Guess the number SOLID\obj\Debug\net7.0\ref\Guess the number SOLID.dll
